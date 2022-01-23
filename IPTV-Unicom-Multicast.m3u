@@ -1,25 +1,27 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-name="北京卫视",BTV北京卫视[高清]
+#EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[高清]
 rtp://239.3.1.241:8000
-#EXTINF:-1 tvg-name="BTV新闻",BTV新闻[高清]
+#EXTINF:-1 tvg-name="BTV新闻",BRTV新闻[高清]
 rtp://239.3.1.159:8000
-#EXTINF:-1 tvg-name="BTV影视",BTV影视[高清]
+#EXTINF:-1 tvg-name="BTV影视",BRTV影视[高清]
 rtp://239.3.1.158:8000
-#EXTINF:-1 tvg-name="BTV文艺",BTV文艺[高清]
+#EXTINF:-1 tvg-name="BTV文艺",BRTV文艺[高清]
 rtp://239.3.1.242:8000
-#EXTINF:-1 tvg-name="BTV财经",BTV财经[高清]
+#EXTINF:-1 tvg-name="BTV财经",BRTV财经[高清]
 rtp://239.3.1.116:8000
-#EXTINF:-1 tvg-name="BTV生活",BTV生活[高清]
+#EXTINF:-1 tvg-name="BTV生活",BRTV生活[高清]
 rtp://239.3.1.117:8000
-#EXTINF:-1 tvg-name="BTV青年",BTV青年[高清]
+#EXTINF:-1 tvg-name="BTV青年",BRTV青年[高清]
 rtp://239.3.1.118:8000
-#EXTINF:-1 tvg-name="BTV科教",BTV科教[高清]
+#EXTINF:-1 tvg-name="BTV科教",BRTV科教[高清]
 rtp://239.3.1.115:8000
-#EXTINF:-1 tvg-name="卡酷动画",BTV卡酷少儿[高清]
+#EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿[高清]
 rtp://239.3.1.189:8000
-# #EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[超清HDR]
+# #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[高清]
+# rtp://239.3.1.243:8000
+# #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清HDR]
 # rtp://239.3.1.120:8000
-# #EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[超清]
+# #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清]
 # rtp://239.3.1.121:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 rtp://239.3.1.235:8000
@@ -55,6 +57,10 @@ rtp://239.3.1.124:8128
 rtp://239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
 rtp://239.3.1.153:8136
+#EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[超清HDR]
+rtp://239.3.1.183:8001
+# #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
+# rtp://239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 rtp://239.3.1.151:8144
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
@@ -127,6 +133,8 @@ rtp://239.3.1.148:8072
 rtp://239.3.1.210:8056
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视[高清]
 rtp://239.3.1.138:8044
+#EXTINF:-1 tvg-name="吉林卫视",吉林卫视[高清]
+rtp://239.3.1.240:8172
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视[高清]
 rtp://239.3.1.149:8076
 #EXTINF:-1 tvg-name="东南卫视",东南卫视[高清]
@@ -141,8 +149,6 @@ rtp://239.3.1.26:8108
 rtp://239.3.1.144:4120
 #EXTINF:-1 tvg-name="厦门卫视",厦门卫视
 rtp://239.3.1.143:4120
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-rtp://239.3.1.40:8200
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
 rtp://239.3.1.29:8288
 #EXTINF:-1 tvg-name="南方卫视",南方卫视
@@ -169,14 +175,14 @@ rtp://239.3.1.41:8140
 rtp://239.3.1.44:8184
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
 rtp://239.3.1.43:8176
-#EXTINF:-1 tvg-name="该频道节目单尚无",熊猫频道[高清]
-rtp://239.3.1.66:8068
 #EXTINF:-1 tvg-name="该频道节目单尚无",朝阳融媒[高清]
 rtp://239.3.1.163:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",房山电视台[高清]
 rtp://239.3.1.96:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",密云电视台[高清]
 rtp://239.3.1.154:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",延庆电视台
+rtp://239.3.1.187:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",CCTV-4 中文国际 欧洲[高清]
 rtp://239.3.1.213:4220
 #EXTINF:-1 tvg-name="该频道节目单尚无",CCTV-4 中文国际 美洲[高清]
